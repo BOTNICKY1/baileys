@@ -54,6 +54,7 @@
     "libphonenumber-js": "^1.10.20",
     "libsignal": "github:kiuur/libsignal-node",
     "music-metadata": "^7.12.3",
+    "node-fetch": "^2.6.1",
     "node-cache": "^5.1.2",
     "pino": "^7.0.0",
     "protobufjs": "^7.2.4",
